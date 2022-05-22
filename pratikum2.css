@@ -1,0 +1,28 @@
+p {
+    color: rgb(197, 13, 13);
+    }
+    html {
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    background-color: rgb(207, 201, 211);
+    }
+    body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(10, 71, 121);
+    }
+    h1 {
+    font-size: 60px;
+    text-align: center;
+    }
+    p,
+    li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    }
+    img {
+    display: block;
+    margin: 0 auto;
+    }
